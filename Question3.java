@@ -5,8 +5,8 @@ public class Question3
   public static void main(String[] args)
   {
     int num;
-    int number = in.nextInt();
-    integer answer= number * number ;
+    int num = in.nextInt();
+    int answer= num * num ;
     System.out.println(answer);
     Scanner in = new Scanner(System.in);
     
