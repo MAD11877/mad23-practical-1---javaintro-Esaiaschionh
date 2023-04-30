@@ -6,7 +6,7 @@ public class Question3
   {
     Scanner in = new Scanner(System.in);
     int num;
-    int num = in.nextInt();
+    num = in.nextInt();
     int answer = num * num ;
     System.out.println(answer);
   }
